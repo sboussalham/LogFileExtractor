@@ -1,4 +1,4 @@
-#This is the command to use to start the script
+#This is the command to use to start the sulution
 
 java -jar extractor-1.0.jar [path] [text]
 
